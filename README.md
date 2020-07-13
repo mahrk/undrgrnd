@@ -3,6 +3,8 @@
 # UNDRGRND
 ### Creators | Rashad Collins, Ivan Davis, and Priyanka Farrell
 
+
+### Project Summary
 Have you ever found it difficult to find new music? Have you ever found it difficult finding music by local and underground music? Have you ever found it difficult sharing music?
 
 Well look no farther. Welcome to UNDRGRND, a one of its kind music app created by Rashad Collins, Ivan Davis, and Priyanka Farrell.
