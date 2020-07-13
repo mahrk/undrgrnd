@@ -1,3 +1,5 @@
+<img width="178" alt="Screen Shot 2020-07-13 at 1 28 48 PM" src="https://user-images.githubusercontent.com/8472480/87334534-cb575880-c50c-11ea-92b1-c8695762e79b.png">
+
 # UNDRGRND
 ### Creators | Rashad Collins, Ivan Davis, and Priyanka Farrell
 
