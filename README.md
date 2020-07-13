@@ -1,4 +1,4 @@
-# undrgrnd
+# UNDR GRND
 ### Creators | Rashad Collins, Ivan Davis, and Priyanka Farrell
 
 Have you ever found it difficult to find new music? Have you ever found it difficult finding music by local and underground music? Have you ever found it difficult sharing music?
@@ -9,7 +9,7 @@ With UNDRGRND, users will be prompted to login and authorize our app to access t
 
 After the app generates UNDRGRND artists, it will also give users the ability to find more UNDRGRND artists based on the genre of their choice. If you are someone who loves surprises, unique music finds or are a supporter of local artists, this is the app for you!
 
-# APIS used:
+## APIS used:
 
 - Spotify Get Recommendations Based on Seeds
 - Spotify Get Users Top Artists and Tracks
